@@ -1,0 +1,23 @@
+
+.app-header{
+    .example-spacer {
+        flex: 1 1 auto;
+    }
+      
+      .toolbar{
+        background-color: black;
+        color: aliceblue;
+        padding: 0 256px;
+      }
+    
+      .cadastre{
+        background-color: purple !important;
+        margin: 6px;
+    
+      }
+      .mat-mdc-outlined-button:not(:disabled) {
+        border-color: aliceblue;
+    }
+
+}
+
